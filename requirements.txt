@@ -1,0 +1,12 @@
+keras==2.10.0
+matplotlib==3.5.2
+numpy==1.23.1
+opencv_python==4.6.0.66
+opencv_python_headless==4.11.0.86
+pandas==2.2.3
+Pillow==9.2.0
+Pillow==11.2.1
+scikit_image==0.19.3
+scipy==1.15.2
+tensorflow==2.10.0
+tqdm==4.64.0
