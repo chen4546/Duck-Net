@@ -1,6 +1,6 @@
 南开大学软件学院人工智能物联网导论课程大作业 B 组模型 Duck-Net 复现,使用 tensorflow
 
-说明文档见 B 档模型 Duck-Net.pdf
+说明文档见 B档模型Duck-Net.pdf
 
 数据集链接:
 
